@@ -1,0 +1,6 @@
+.pyc
+_pycache_
+Duga-Projects
+db.sqlite3
+/static
+.DS_Store
